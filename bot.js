@@ -18,6 +18,7 @@ const CONFIG = {
   sleepDuration: 30 * 60 * 1000,
 
   hitMessages: [
+    "Heeelp!"
   ],
 
   registered: false,
